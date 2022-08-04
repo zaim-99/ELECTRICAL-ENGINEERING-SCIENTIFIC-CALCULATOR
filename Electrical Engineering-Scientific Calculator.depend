@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1576711071 source:c:\users\abdom\desktop\first engineering calculator\main.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+
+1659598859 source:c:\users\abdelrahman ahmed\downloads\firstengineeringcalculator_58217dc0f315fa35935f196e3d91252a_ (1)\first engineering calculator\main.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
